@@ -1,7 +1,3 @@
-/* Berkay from Chaos Computer Club Mannheim
- * Project:Light Group - Subproject:Light Cubes
- */
-
 package berkay.light.cube; 
 
 import java.io.IOException;
